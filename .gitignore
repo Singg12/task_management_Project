@@ -32,15 +32,4 @@ build/
 ### VS Code ###
 .vscode/
 
-# Ignore properties files in src/main/resources
-src/main/resources/*.properties
 
-# Ignore YAML configuration files
-src/main/resources/*.yml
-src/main/resources/*.yaml
-
-# Ignore IDE and build files
-*.log
-target/
-.idea/
-.vscode/
